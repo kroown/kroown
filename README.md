@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,c,rust&perline=4">
+  <img src="https://skillicons.dev/icons?i=linux,cpp,c,rust,assembly&perline=5">
 </p>
 
 <br>
