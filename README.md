@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kroown&fontSize=55&fontAlignY=38&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kroown&fontSize=70&fontAlignY=35&animation=twinkling">
 </p>
 
 <p align="center">
@@ -24,3 +24,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kroown&theme=tokyo-night&bg_color=00000000&point=70a5fd&area=true&area_color=70a5fd&hide_border=true">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=twinkling">
+</p> 
