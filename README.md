@@ -12,6 +12,15 @@
   <img src="https://skillicons.dev/icons?i=linux,cpp,c,rust&perline=4">
 </p>
 
+<br>
+
+> currently working on a programming language and compiler (raw/rawc).
+
+### todo
+- [ ] making a kernel from scratch in assembly, c++
+- [ ] ...
+- [ ] ...
+
 ---
 
 <p align="center">
