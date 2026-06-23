@@ -18,8 +18,6 @@
 
 ### todo
 - [ ] making a kernel from scratch in assembly, c++
-- [ ] ...
-- [ ] ...
 
 ---
 
