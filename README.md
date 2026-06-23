@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cpp,c,rust,assembly&perline=5">
+  <img src="https://skillicons.dev/icons?i=linux,cpp,c,rust&perline=4">
+  <br>
+  <img src="https://img.shields.io/badge/-ASM-525252?style=flat">
 </p>
 
 <br>
