@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=kroown&fontSize=70&fontAlignY=35&animation=twinkling">
-</p>
+# kroown
 
 <p align="center">
   <b>noah</b> · <span style="color:#2965F1;font-weight:600;">c++</span> · <span style="color:#555555;font-weight:600;">c</span> · <span style="color:#CE422B;font-weight:600;">rust</span>
@@ -31,6 +29,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kroown&theme=tokyo-night&bg_color=00000000&point=70a5fd&area=true&area_color=70a5fd&hide_border=true">
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&animation=twinkling">
-</p> 
+
