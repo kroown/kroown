@@ -3,7 +3,7 @@
 <p align="center">
   <b>kroown</b> · <span style="color:#2965F1;font-weight:600;">c++</span> · <span style="color:#555555;font-weight:600;">c</span> · <span style="color:#CE422B;font-weight:600;">rust</span>
   <br>
-  <sub>web? never heard of her</sub>
+  <sub>hi</sub>
 </p>
 
 <p align="center">
